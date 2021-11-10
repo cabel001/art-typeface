@@ -1,2 +1,2 @@
 # art-typeface
-Typeface Project Upload
+Web Type Specimen Project
